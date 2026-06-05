@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: universal-tier-bot
+    name: Blood-tier-bot
     env: node
     buildCommand: npm install
     startCommand: node src/index.js
