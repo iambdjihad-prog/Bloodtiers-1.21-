@@ -1,5 +1,5 @@
 {
-  "name": "universal-tier-bot",
+  "name": "Blood-tier-bot",
   "version": "1.0.0",
   "description": "Discord bot for tier verification and queue management",
   "main": "src/index.js",
